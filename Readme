@@ -1,0 +1,8 @@
+sortenabet-aviator/
+├── manifest.json          # Extensão Chrome
+├── background.js          # Service Worker
+├── content.js             # Script de captura
+├── main-world.js          # Proxy WebSocket
+├── painel_vr5_v14.html    # Painel VR5 (interface principal)
+├── README.md              # Documentação
+└── .gitignore
